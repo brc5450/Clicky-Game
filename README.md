@@ -1,6 +1,6 @@
 # Shape Clicky-Game
 
-###Overview
+### Overview
 
 This is a React.js based memory game. The game is broken up into UI components, with one stateful component passing the managed state to non-stateful components.
 
